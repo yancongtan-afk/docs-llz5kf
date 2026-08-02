@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-090si3.bento4dgyd.site/sitemap.xml
